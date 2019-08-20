@@ -2,8 +2,9 @@ Code for paper "Accuracy First: Selecting a Differentially Private
                 Level for Accuracy-Constrained ERM"
 by Ligett, Neel, Roth, Waggoner, Wu
 
-https://arxiv.org/abs/1705.10829
+Arxiv: https://arxiv.org/abs/1705.10829
 
+Journal of Privacy and Confidentiality: https://doi.org/10.29012/jpc.682
 
 ---------------------------------------------------------------
 -- Disclaimer
